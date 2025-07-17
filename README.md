@@ -1,2 +1,2 @@
 # smart-traffic-detection
-Smart Incident Detection &amp; Alert System using your traffic video and Django.
+Smart Incident Detection &amp; Alert System using online traffic video and Django.
